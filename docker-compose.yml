@@ -1,0 +1,8 @@
+version: '3.9'
+
+services:
+  django:
+    image: eshop
+    build:  .
+    ports:
+      - "8500:8500"

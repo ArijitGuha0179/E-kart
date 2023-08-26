@@ -8,7 +8,7 @@
 - Admin Panel for managing products and customers
 - Authentication Middleware is added
 
-##TechStack
+## TechStack
 - Django
 - HTML5
 - Bootstrap

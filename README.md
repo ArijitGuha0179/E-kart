@@ -1,6 +1,6 @@
 # E-Kart
 
-A fully functional E-commerce website based on django framework.
+A fully functional E-commerce website based on django framework .
 
 ## Features:
 - Login and Signup page
